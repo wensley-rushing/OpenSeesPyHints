@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def val(newValue, eleTags=None, start=None, end=None, args=None):
     """

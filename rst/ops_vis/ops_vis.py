@@ -16,7 +16,7 @@
 #    therefore right angles are not guaranteed to be 90 degrees on the
 #    plots
 
-import openseespy.opensees as ops  # installed from pip
+import opensees.openseespy as ops  # installed from pip
 # import opensees as ops  # local compilation
 import numpy as np
 import matplotlib.pyplot as plt

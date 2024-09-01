@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def alpha=-1.0(alpha):
     """

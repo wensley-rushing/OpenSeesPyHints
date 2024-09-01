@@ -5,7 +5,7 @@ Created on Sat Jun  4 14:06:21 2022
 @author: Christian
 """
 
-import openseespy.opensees as op
+import opensees.openseespy as op
 
 op.wipe()
 op.model('basic', '-ndm', 2, '-ndf', 3)

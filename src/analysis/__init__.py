@@ -18,7 +18,7 @@ from . import system
 from . import test
 
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 
 def analysis(analysisType):

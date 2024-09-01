@@ -7,7 +7,7 @@ Created on Sat Jun  4 14:06:21 2022
 
 import hysteresis
 import openseespyhint as op
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 
 
@@ -136,7 +136,7 @@ ops.uniaxialMaterial('Steel4', matTag, Fy, E0, '-asym', '-kin',b,*params,b,*para
 # op.analysis.
 
 
-# import openseespy.opensees as op
+# import opensees.openseespy as op
 
 # op.wipe()
 # op.model('basic', '-ndm', 2, '-ndf', 3)

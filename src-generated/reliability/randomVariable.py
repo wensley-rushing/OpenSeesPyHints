@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def tag(tag, dist, mean=None, stdv=None, startPoint=None, params=None):
     """

@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def m(m, zeta, k, Fy, alpha, dtF, filename, dt[, uresidual, umaxprev]):
     """

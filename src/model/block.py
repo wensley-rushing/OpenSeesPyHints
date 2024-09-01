@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 
 def block2D(numX, numY, startNode, startEle, eleType, eleArgs, crds):

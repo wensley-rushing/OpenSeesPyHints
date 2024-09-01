@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def type(type, tag):
    This commmand is used to remove components from the model.

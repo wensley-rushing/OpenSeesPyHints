@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def numX(numX, numY, numZ, startNode, startEle, eleType, eleArgs, crds):
     """

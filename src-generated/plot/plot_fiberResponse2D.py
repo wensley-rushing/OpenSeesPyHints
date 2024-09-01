@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def ModelName(ModelName, LoadCaseName, element, section, LocalAxis =None, InputType =None, tstep =None):
     """

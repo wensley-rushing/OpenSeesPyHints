@@ -70,7 +70,7 @@ for cmdPath in cmdPaths:
     
     
         # Generate the first line of the file
-        outText = 'import openseespy.opensees as ops' + '\n' + '\n' 
+        outText = 'import opensees.openseespy as ops' + '\n' + '\n' 
     
         # Check if the current file is also a TOC.
         istoc, indexes = pr.checkIfTOC(rstText)    

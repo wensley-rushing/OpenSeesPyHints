@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def fix(nodeTag, constrValues= [0,0,0]):
     """

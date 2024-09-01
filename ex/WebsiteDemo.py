@@ -1,5 +1,5 @@
 import openseespyhint as op
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 # Delete any old opensees objects
 op.utility.wipe()

@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def Elastic(secTag, E_mod, A, Iz, Iy, G_mod, Jxx, alphaY, alphaZ):
 

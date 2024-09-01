@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def JSON(filename=None, flag=None, *nodes, *eles):
     """

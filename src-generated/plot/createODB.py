@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def ModelName(ModelName, LoadCaseName=None, Nmodes=0=None, deltaT=0.0=None, recorders=[]=None):
     """

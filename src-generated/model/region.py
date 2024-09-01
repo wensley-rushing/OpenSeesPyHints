@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def regTag(regTag, eles=None, eles=None, startEle=None, endEle=None, startEle=None, endEle=None, nodes=None, nodes=None, startNode=None, endNode=None, startNode=None, endNode=None, alphaM=None, betaK=None, betaKinit=None, betaKcomm=None):
     """

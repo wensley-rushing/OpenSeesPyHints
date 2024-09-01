@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def EnvelopeNode(filename=None, filename=None, nSD, tsTag=None, deltaT, *nodeTags, startNode=None, endNode=None, regionTag=None, *dofs, respType):
     """

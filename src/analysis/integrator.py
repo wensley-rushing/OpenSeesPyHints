@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def LoadControl(incr, numIter=1, minIncr=None, maxIncr=None):
     """

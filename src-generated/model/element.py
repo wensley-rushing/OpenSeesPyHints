@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def zeroLength(eleTag, eleNodes, matTags=None, dirs=None, rFlag=0=None, vecx=None, vecyp=None):
     """

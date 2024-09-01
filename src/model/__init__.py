@@ -35,7 +35,7 @@ from . import timeSeries
 from . import uniaxialMaterial
 
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def basic(ndm, ndf=None):
     """

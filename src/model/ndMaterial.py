@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def ElasticIsotropic(matTag, E, nu, rho):
     """

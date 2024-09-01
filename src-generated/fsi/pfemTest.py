@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def PFEM(tolv, tolp, tolrv, tolrp, tolrelv, tolrelp, iter, maxincr, pFlag, nType):
     """

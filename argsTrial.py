@@ -4,7 +4,7 @@ Created on Sat Jun  4 02:00:06 2022
 
 @author: Christian
 """
-import openseespy.opensees as op
+import opensees.openseespy as op
 import numpy as np 
 # File Structure Modelcmds - > Element
 

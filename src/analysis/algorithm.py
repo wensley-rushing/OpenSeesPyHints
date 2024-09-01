@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def Linear(secant=False, initial=False, factorOnce=False):
     """

@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 def Steel01(matTag, Fy, E0, b, a1, a2, a3, a4):
     """
